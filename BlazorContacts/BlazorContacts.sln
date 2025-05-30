@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorContacts", "BlazorContacts\BlazorContacts\BlazorContacts.csproj", "{AC76A7D8-9B07-4BE3-B341-6B6F26AC2057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorContacts.Client", "BlazorContacts\BlazorContacts.Client\BlazorContacts.Client.csproj", "{288DD5B5-7416-45EE-9016-0FA2A466C3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC76A7D8-9B07-4BE3-B341-6B6F26AC2057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76A7D8-9B07-4BE3-B341-6B6F26AC2057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76A7D8-9B07-4BE3-B341-6B6F26AC2057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76A7D8-9B07-4BE3-B341-6B6F26AC2057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288DD5B5-7416-45EE-9016-0FA2A466C3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288DD5B5-7416-45EE-9016-0FA2A466C3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288DD5B5-7416-45EE-9016-0FA2A466C3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288DD5B5-7416-45EE-9016-0FA2A466C3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {206DC7DF-6214-4CD2-8EF9-5F6DAF845BF9}
+	EndGlobalSection
+EndGlobal
